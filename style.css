@@ -255,11 +255,12 @@ imge a{
     border-radius: 15px;
     opacity: .8;
     position: absolute;
-    bottom:47%;
+    bottom:45%;
     left: 40%;
     width: 20%;
     height: 45%;
     background-image: url(./images/icon-view.svg);
     background-repeat: no-repeat;
     background-position: center;
+
 }
